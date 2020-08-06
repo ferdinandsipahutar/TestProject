@@ -4,3 +4,9 @@ c:\users\admin\documents\visual studio 2015\Projects\TestProject\TestProject\bin
 c:\users\admin\documents\visual studio 2015\Projects\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
 c:\users\admin\documents\visual studio 2015\Projects\TestProject\TestProject\obj\Debug\TestProject.exe
 c:\users\admin\documents\visual studio 2015\Projects\TestProject\TestProject\obj\Debug\TestProject.pdb
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\bin\Debug\TestProject.exe.config
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\bin\Debug\TestProject.exe
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\bin\Debug\TestProject.pdb
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\obj\Debug\TestProject.exe
+C:\Users\admin\Desktop\tes123\TestProject\TestProject\obj\Debug\TestProject.pdb
